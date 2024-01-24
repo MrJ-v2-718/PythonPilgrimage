@@ -1,4 +1,4 @@
-# Brandon Jones
+# MrJ
 # 1/23/2024
 # Purpose: Asks the user to enter a series of positive numbers and enter a negative 
 # number to signal the end of the series. After all positive numbers have been 
