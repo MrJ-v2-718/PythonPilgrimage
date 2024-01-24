@@ -1,4 +1,5 @@
-input_month = (input()).lower()
+# A program that takes a month as input and outputs the current season.
+input_month = input().lower()
 input_day = int(input())
 if input_day 
 
