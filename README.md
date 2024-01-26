@@ -1,2 +1,2 @@
 # PythonPilgrimage
-The Python Pilgrimage repository is my documented exploration of Python.
+The Python Pilgrimage is my documented exploration of Python.
